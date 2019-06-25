@@ -1,0 +1,7 @@
+#!/bin/bash
+tdir=$(mktemp -d ./res/tmpXXXXXXXXX)
+mv final-path.dat $tdir
+mv len-his.dat $tdir
+mv av-len-his.dat $tdir
+cp city-pos.dat $tdir
+cp seed.in $tdir
