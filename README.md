@@ -2,4 +2,4 @@
 
 Exercises for the Numerical Simulation Laboratory course.
 
-In each folder, the results of the exercise is reported in a Jupyter Notebook.
+In each folder, the results of the exercise is reported in a Jupyter notebook.
